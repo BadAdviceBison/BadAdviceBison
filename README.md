@@ -1,4 +1,6 @@
-## Hi there 👋
+<b>This is a placeholder until I'm ready to give this section the attention is deserves.</b>
+
+## Hello! 👋
 
 <!--
 **BadAdviceBison/BadAdviceBison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
